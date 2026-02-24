@@ -81,5 +81,5 @@ models:
       - name: etl_inserted_at
         description: "Timestamp de quando o dado foi carregado no modelo"
   
-  - name: stg_teste_cicd
+  - name: stg_test_ci_cd
     description: "Modelo para testar cicd"
